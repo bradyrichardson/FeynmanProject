@@ -17,8 +17,8 @@
 	</nav>
 	<router-view />
 	<footer>
-		<a href="https://github.com/joshuasrichardson/Feyman">Github Repo</a>
-		<p>I worked with Brady Richardson</p>
+		<a href="https://github.com/bradyrichardson/FeynmanProject">Github Repo</a>
+		<p>I worked with Josh Richardson</p>
 	</footer>
 </div>
 </template>
